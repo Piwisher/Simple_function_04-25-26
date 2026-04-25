@@ -1,0 +1,8 @@
+#LA 1:FIRST SIMPLE FUNCTION
+def my_info():
+    print("my name is James")
+    print("BSIT-1B")
+    print("MY HOBBIES ARE CYCLING, GAMING, AND CODING")
+    print()
+my_info()
+my_info()
